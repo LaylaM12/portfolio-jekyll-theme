@@ -6,7 +6,7 @@ permalink: /about
 # Layla's Template
 Looks like it worked!
 
-A bit about me: 
+# A bit about me: 
 My name is Layla Mahmood, I work as a reservoir engineer and am based in London. My degree is in Petroleum Engineering and I decided to work in the oil and gas industry after graduation. I love to socialise, stay fit at the gym and also travel! 
 
 
